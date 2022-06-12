@@ -21,8 +21,8 @@ Positive return during the next 5 trading days since a new quarterly earning rea
   * Foundamental Metrics<br />
     * Basic Metrics: industry, market cap, institution holding% etc.<br />
     * Valuation Metrics: PE PB PS PEG <br />
-    * Profitability and Growth: Y/Y, Q/Q, 3-year avg growth, 5-year avg growth on EPS, Revenue, Gross Margin, FCF, Operating Cash Flow etc. <br />
-    * Volatility: implied volatility from its option
+    * Profitability and Growth: (Y/Y, Q/Q) EPS, Revenue, Gross Margin, FCF, Operating Cash Flow etc. <br />
+  
   * Techniqual Indicators<br />
     MA, EMA, MACD, RSI, Bollinger Bands, Indicators Fibonacci Retracement Indicators<br />
     Implied volatility, short ratio, short interest <br />
