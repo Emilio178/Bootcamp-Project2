@@ -48,3 +48,7 @@ Positive return during the next 5 trading days since a new quarterly earning rea
       * Tensorflow (for DNN model)
       * NLP
       * Webscraping
+
+
+Feature Pools Generated
+<img width="1225" alt="Screen Shot 2022-06-18 at 12 17 49 AM" src="https://user-images.githubusercontent.com/53786396/174422460-014d2f3c-7588-4028-b8a4-b32026e9437d.png">
