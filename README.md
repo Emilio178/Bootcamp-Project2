@@ -19,7 +19,7 @@ Positive return during the next 5 trading days since a new quarterly earning rea
 
 **Features:**
   * Foundamental Metrics<br />
-    * Basic Metrics: industry, market cap, institution holding% etc.<br />
+    * Basic Metrics: industry, market cap, etc.<br />
     * Valuation Metrics: PE PB PS PEG <br />
     * Profitability and Growth: (Y/Y, Q/Q) EPS, Revenue, Gross Margin, FCF, Operating Cash Flow etc. <br />
   
@@ -36,18 +36,14 @@ Positive return during the next 5 trading days since a new quarterly earning rea
  ### **4. Technology and Data Source** <br />
     Coding Language
       * Python
-      * SQL
     Data Source
       * Yahoofinance API
-      * Morningstar API
-      * Tradingview API
-      * Twelvedata API
-      * (API for NEWS: TBD)
+      * Simfin API
     ML Techniques
       * Scikit-learn (for classification and logistic regression model)
       * Tensorflow (for DNN model)
       * NLP
-      * Webscraping
+
 
 
 Feature Pools Generated
